@@ -1,1 +1,1 @@
-# AuraAI
+# GoldenRatioAI
